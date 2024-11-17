@@ -1,0 +1,21 @@
+name: Notify Discord on Release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send message to Discord
+        uses: Ilshidur/action-discord@v2
+        with:
+          webhook_id: ${{ secrets.DISCORD_WEBHOOK_ID }}
+          webhook_token: ${{ secrets.DISCORD_WEBHOOK_TOKEN }}
+          message: |
+            **Neues Plugin Release veröffentlicht!**
+            **Name:** ${{ github.release.name }}
+            **Beschreibung:** ${{ github.release.body }}
+            **Version:** ${{ github.release.tag_name }}
+            **Link:** ${{ github.release.html_url }}
