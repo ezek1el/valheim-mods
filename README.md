@@ -15,7 +15,7 @@ Das Modpack für unsere Valheim-Server. Ein Klick, alle Mods aktuell, verbunden.
 Der **Valheim Updater** hält dein Spiel automatisch auf dem Stand der Server.
 Einmal einrichten, danach reicht ein Doppelklick.
 
-### Einmalig
+### Einmalig - falls BepInEx noch nie installiert wurde (sollte bei Stammspielern nicht der Fall sein)
 
 1. **BepInEx installieren** – [BepInExPack Valheim](https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/) herunterladen und den Inhalt nach
    `…\Steam\steamapps\common\Valheim\` entpacken.
@@ -24,7 +24,7 @@ Einmal einrichten, danach reicht ein Doppelklick.
 3. **Umsteiger:** Wer vorher Mods von Hand installiert hat, leert einmalig den Ordner
    `…\Valheim\BepInEx\plugins`. Danach nie wieder nötig – der Updater pflegt ihn selbst.
 
-### Ab dann
+### Der neue Updater
 
 Doppelklick auf **`Valheim Updater.bat`** → das Fenster zeigt an, ob ein Update
 vorliegt → auf *Jetzt aktualisieren* klicken → fertig.
@@ -33,13 +33,13 @@ Der Updater findet deine Steam-Installation selbst, zeigt dir die Änderungen de
 aktuellen Releases an und legt vor jedem Update ein Backup an.
 
 **Was er nicht anfasst:** deine eigenen Client-Mods und deine Einstellungen unter
-`BepInEx\config` – die bleiben erhalten.
+`BepInEx\config` – diese bleiben erhalten.
 
 ---
 
 ##  Manuelle Installation
 
-Geht auch ohne Updater, ist nur mehr Handarbeit:
+Geht auch ohne Updater ... nur umständlicher 
 
 1. **Vorher** den Ordner `plugins` im BepInEx-Verzeichnis löschen:
 
@@ -109,9 +109,6 @@ BepInEx fehlt oder ist nicht im richtigen Ordner. Es gehört direkt neben die
 **Updater meldet „BepInEx fehlt"**
 Siehe Schritt 1 im Schnellstart.
 
-**Sonstiges**
-Log-Datei `…\Valheim\BepInEx\LogOutput.log` mitschicken, dann lässt sich das
-meiste schnell finden.
 
 ---
 
