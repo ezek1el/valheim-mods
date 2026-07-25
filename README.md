@@ -12,7 +12,7 @@ Das Modpack für unsere Valheim-Server. Ein Klick, alle Mods aktuell.
 
 ##  Schnellstart (empfohlen)
 
-1. **ValheimModUpdater herunterladen und an einem Ort deiner Wahl entpacken** – [ValheimModUpdater]([https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/](https://github.com/ezek1el/valheim-mods/releases/download/1.50/ValheimUpdater.zip)
+1. **ValheimModUpdater herunterladen und an einem Ort deiner Wahl entpacken** – [ValheimModUpdater](https://github.com/ezek1el/valheim-mods/releases/latest/download/ValheimModUpdater.zip))
 
 2. Doppelklick auf **`ValheimModUpdater.bat`** → *Jetzt aktualisieren* klicken → fertig.
 
