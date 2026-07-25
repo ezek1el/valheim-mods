@@ -1,6 +1,6 @@
 #  Road2Valheim – Modpack
 
-Das Modpack für unsere Valheim-Server. Ein Klick, alle Mods aktuell, verbunden.
+Das Modpack für unsere Valheim-Server. Ein Klick, alle Mods aktuell.
 
 [![Latest Release](https://img.shields.io/github/v/release/ezek1el/valheim-mods?label=Modpack&style=for-the-badge&color=6366F1)](https://github.com/ezek1el/valheim-mods/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/ezek1el/valheim-mods/total?style=for-the-badge&color=4ADE80)](https://github.com/ezek1el/valheim-mods/releases)
@@ -12,8 +12,16 @@ Das Modpack für unsere Valheim-Server. Ein Klick, alle Mods aktuell, verbunden.
 
 ##  Schnellstart (empfohlen)
 
-Der **Valheim Updater** hält dein Spiel automatisch auf dem Stand der Server.
-Einmal einrichten, danach reicht ein Doppelklick.
+1. **ValheimModUpdater herunterladen und an einem Ort deiner Wahl entpacken** – [ValheimModUpdater]([https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/](https://github.com/ezek1el/valheim-mods/releases/download/1.50/ValheimUpdater.zip)
+
+2. Doppelklick auf **`ValheimModUpdater.bat`** → *Jetzt aktualisieren* klicken → fertig.
+
+Der Updater findet deine Steam-Installation selbst, zeigt dir die Änderungen des
+aktuellen Releases an und legt vor jedem Update ein Backup an.
+
+**Was er nicht anfasst:** deine eigenen Client-Mods und deine Einstellungen unter
+`BepInEx\config` – diese bleiben erhalten.
+
 
 ### Einmalig - falls BepInEx noch nie installiert wurde (sollte bei Stammspielern nicht der Fall sein)
 
@@ -23,17 +31,6 @@ Einmal einrichten, danach reicht ein Doppelklick.
    (z. B. `Desktop\ValheimUpdater`).
 3. **Umsteiger:** Wer vorher Mods von Hand installiert hat, leert einmalig den Ordner
    `…\Valheim\BepInEx\plugins`. Danach nie wieder nötig – der Updater pflegt ihn selbst.
-
-### Der neue Updater
-
-Doppelklick auf **`Valheim Updater.bat`** → das Fenster zeigt an, ob ein Update
-vorliegt → auf *Jetzt aktualisieren* klicken → fertig.
-
-Der Updater findet deine Steam-Installation selbst, zeigt dir die Änderungen des
-aktuellen Releases an und legt vor jedem Update ein Backup an.
-
-**Was er nicht anfasst:** deine eigenen Client-Mods und deine Einstellungen unter
-`BepInEx\config` – diese bleiben erhalten.
 
 ---
 
