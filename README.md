@@ -36,7 +36,7 @@ aktuellen Releases an und legt vor jedem Update ein Backup an.
 
 ##  Manuelle Installation
 
-Geht auch ohne Updater ... nur umständlicher 
+Geht auch ohne Updater ... ist nur umständlicher 
 
 1. **Vorher** den Ordner `plugins` im BepInEx-Verzeichnis löschen:
 
@@ -47,7 +47,7 @@ Geht auch ohne Updater ... nur umständlicher
    Alternativ: Rechtsklick auf Valheim in der Steam-Bibliothek → *Verwalten* →
    *Lokale Dateien durchsuchen* → Ordner `BepInEx` öffnen → `plugins` löschen.
 
-2. [Aktuelles Release](https://github.com/ezek1el/valheim-mods/releases/latest)
+2. [Aktuelles ValheimModUpdater Release](https://github.com/ezek1el/valheim-mods/releases/latest)
    herunterladen (`valheim_plugins_*.zip`).
 
 3. Den Ordner `plugins` aus dem Archiv in das BepInEx-Verzeichnis entpacken.
