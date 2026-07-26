@@ -65,32 +65,32 @@ Geht auch ohne Updater ... ist nur umständlicher
 
 | Mod | Version | Läuft auf |
 |---|---|---|
-| [AzuCraftyBoxes](https://thunderstore.io/c/valheim/p/Azumatt/AzuCraftyBoxes/) | `1.8.13` | Server + Client |
-| [BetterNetworking Valheim](https://thunderstore.io/c/valheim/p/CW_Jesse/BetterNetworking_Valheim/) | `2.3.2` | Server + Client |
-| [Cross Server Portals](https://thunderstore.io/c/valheim/p/lunarbin/Cross_Server_Portals/) | `1.2.0` | Server + Client |
-| [Custom Raids](https://thunderstore.io/c/valheim/p/ASharpPen/Custom_Raids/) | `1.8.1` | Server + Client |
-| [EpicLoot](https://thunderstore.io/c/valheim/p/RandyKnapp/EpicLoot/) | `0.12.11` | Server + Client |
-| [EquipmentAndQuickSlots](https://thunderstore.io/c/valheim/p/RandyKnapp/EquipmentAndQuickSlots/) | `2.1.4` | Server + Client |
-| [FloorsAreRoofs](https://thunderstore.io/c/valheim/p/bonesbro/FloorsAreRoofs/) | `2.0.2` | Server + Client |
-| [Jotunn](https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/) | `2.27.1` | Server + Client |
-| [JsonDotNET](https://thunderstore.io/c/valheim/p/ValheimModding/JsonDotNET/) | `13.0.4` | Server + Client |
-| [OdinsFoodBarrels](https://thunderstore.io/c/valheim/p/OdinPlus/OdinsFoodBarrels/) | `1.2.2` | Server + Client |
-| [PetPantry](https://thunderstore.io/c/valheim/p/Azumatt/PetPantry/) | `1.0.5` | Server + Client |
-| [PlantEasily](https://thunderstore.io/c/valheim/p/Advize/PlantEasily/) | `2.0.3` | Server + Client |
-| [PlantEverything](https://thunderstore.io/c/valheim/p/Advize/PlantEverything/) | `1.2.0` | Server + Client |
-| [roll](https://thunderstore.io/c/valheim/p/1010101110/roll/) | `1.2.0` | Server + Client |
-| [TeleportEverything](https://thunderstore.io/c/valheim/p/OdinPlus/TeleportEverything/) | `2.9.1` | Server + Client |
-| [ValheimPlus Grantapher Temporary](https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary/) | `9.17.1` | Server + Client |
-| [Venture Floating Items](https://thunderstore.io/c/valheim/p/VentureValheim/Venture_Floating_Items/) | `0.3.3` | Server + Client |
+| [1010101110-roll](https://thunderstore.io/c/valheim/p/1010101110/roll/) | `1.2.0` | Server + Client |
+| [Advize-PlantEasily](https://thunderstore.io/c/valheim/p/Advize/PlantEasily/) | `2.1.1` | Server + Client |
+| [Advize-PlantEverything](https://thunderstore.io/c/valheim/p/Advize/PlantEverything/) | `1.20.0` | Server + Client |
+| [ASharpPen-Custom_Raids](https://thunderstore.io/c/valheim/p/ASharpPen/Custom_Raids/) | `1.8.1` | Server + Client |
+| [Azumatt-AzuCraftyBoxes](https://thunderstore.io/c/valheim/p/Azumatt/AzuCraftyBoxes/) | `1.8.14` | Server + Client |
+| [Azumatt-PetPantry](https://thunderstore.io/c/valheim/p/Azumatt/PetPantry/) | `1.0.5` | Server + Client |
+| [bonesbro-FloorsAreRoofs](https://thunderstore.io/c/valheim/p/bonesbro/FloorsAreRoofs/) | `2.0.2` | Server + Client |
+| [CW_Jesse-BetterNetworking_Valheim](https://thunderstore.io/c/valheim/p/CW_Jesse/BetterNetworking_Valheim/) | `2.3.2` | Server + Client |
+| [Grantapher-ValheimPlus_Grantapher_Temporary](https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary/) | `9.17.1` | Server + Client |
+| [lunarbin-Cross_Server_Portals](https://thunderstore.io/c/valheim/p/lunarbin/Cross_Server_Portals/) | `1.2.0` | Server + Client |
+| [OdinPlus-OdinsFoodBarrels](https://thunderstore.io/c/valheim/p/OdinPlus/OdinsFoodBarrels/) | `1.2.3` | Server + Client |
+| [OdinPlus-TeleportEverything](https://thunderstore.io/c/valheim/p/OdinPlus/TeleportEverything/) | `2.9.1` | Server + Client |
+| [RandyKnapp-EpicLoot](https://thunderstore.io/c/valheim/p/RandyKnapp/EpicLoot/) | `0.12.15` | Server + Client |
+| [RandyKnapp-EquipmentAndQuickSlots](https://thunderstore.io/c/valheim/p/RandyKnapp/EquipmentAndQuickSlots/) | `2.1.14` | Server + Client |
+| [SpikeHimself-XPortal](https://thunderstore.io/c/valheim/p/SpikeHimself/XPortal/) | `1.2.24` | Server + Client |
+| [ValheimModding-Jotunn](https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/) | `2.29.2` | Server + Client |
+| [ValheimModding-JsonDotNET](https://thunderstore.io/c/valheim/p/ValheimModding/JsonDotNET/) | `13.0.4` | Server + Client |
+| [VentureValheim-Venture_Floating_Items](https://thunderstore.io/c/valheim/p/VentureValheim/Venture_Floating_Items/) | `0.3.3` | Server + Client |
 | [Weather Tweaks](https://www.nexusmods.com/valheim/mods/1850) | `1.1.0` | Server + Client |
-| [XPortal](https://thunderstore.io/c/valheim/p/SpikeHimself/XPortal/) | `1.2.24` | Server + Client |
-| [BetterLaddersContinued](https://thunderstore.io/c/valheim/p/Valphi/BetterLaddersContinued/) | `0.217.24` | nur Client |
-| [BetterUI ForeverMaintained](https://thunderstore.io/c/valheim/p/BetterUI_ForeverMaintained/BetterUI_ForeverMaintained/) | `2.5.9` | nur Client |
-| [EnhancedBepInExConfigurationManager](https://thunderstore.io/c/valheim/p/Pineapple/EnhancedBepInExConfigurationManager/) | `0.1.1` | nur Client |
-| [InstantMonsterDropFork](https://thunderstore.io/c/valheim/p/mchangrh/InstantMonsterDropFork/) | `0.6.0` | nur Client |
+| [BetterUI_ForeverMaintained-BetterUI_ForeverMaintained](https://thunderstore.io/c/valheim/p/BetterUI_ForeverMaintained/BetterUI_ForeverMaintained/) | `2.5.9` | nur Client |
+| [Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock](https://thunderstore.io/c/valheim/p/Goldenrevolver/Quick_Stack_Store_Sort_Trash_Restock/) | `1.4.13` | nur Client |
+| [lashiernexusmodport-Slope_Combat_Fix](https://thunderstore.io/c/valheim/p/lashiernexusmodport/Slope_Combat_Fix/) | `1.3.0` | nur Client |
+| [mchangrh-InstantMonsterDropFork](https://thunderstore.io/c/valheim/p/mchangrh/InstantMonsterDropFork/) | `0.6.0` | nur Client |
+| [Pineapple-EnhancedBepInExConfigurationManager](https://thunderstore.io/c/valheim/p/Pineapple/EnhancedBepInExConfigurationManager/) | `0.1.1` | nur Client |
 | [PregnancyStatus](https://www.nexusmods.com/valheim/mods/1634) | `1.0.0` | nur Client |
-| [Quick Stack Store Sort Trash Restock](https://thunderstore.io/c/valheim/p/Goldenrevolver/Quick_Stack_Store_Sort_Trash_Restock/) | `1.4.13` | nur Client |
-| [Slope Combat Fix](https://thunderstore.io/c/valheim/p/lashiernexusmodport/Slope_Combat_Fix/) | `1.3.0` | nur Client |
+| [Valphi-BetterLaddersContinued](https://thunderstore.io/c/valheim/p/Valphi/BetterLaddersContinued/) | `0.217.24` | nur Client |
 
 <!-- MODS:END -->
 
