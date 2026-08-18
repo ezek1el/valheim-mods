@@ -77,7 +77,7 @@ Geht auch ohne Updater ... ist nur umständlicher
 | [lunarbin-Cross_Server_Portals](https://thunderstore.io/c/valheim/p/lunarbin/Cross_Server_Portals/) | `1.2.0` | Server + Client |
 | [OdinPlus-OdinsFoodBarrels](https://thunderstore.io/c/valheim/p/OdinPlus/OdinsFoodBarrels/) | `1.2.3` | Server + Client |
 | [OdinPlus-TeleportEverything](https://thunderstore.io/c/valheim/p/OdinPlus/TeleportEverything/) | `2.9.1` | Server + Client |
-| [RandyKnapp-EpicLoot](https://thunderstore.io/c/valheim/p/RandyKnapp/EpicLoot/) | `0.12.15` | Server + Client |
+| [RandyKnapp-EpicLoot](https://thunderstore.io/c/valheim/p/RandyKnapp/EpicLoot/) | `0.13.0` | Server + Client |
 | [RandyKnapp-EquipmentAndQuickSlots](https://thunderstore.io/c/valheim/p/RandyKnapp/EquipmentAndQuickSlots/) | `2.1.14` | Server + Client |
 | [SpikeHimself-XPortal](https://thunderstore.io/c/valheim/p/SpikeHimself/XPortal/) | `1.2.24` | Server + Client |
 | [ValheimModding-Jotunn](https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/) | `2.29.2` | Server + Client |
