@@ -73,14 +73,14 @@ Geht auch ohne Updater ... ist nur umständlicher
 | [Azumatt-PetPantry](https://thunderstore.io/c/valheim/p/Azumatt/PetPantry/) | `1.0.5` | Server + Client |
 | [bonesbro-FloorsAreRoofs](https://thunderstore.io/c/valheim/p/bonesbro/FloorsAreRoofs/) | `2.0.2` | Server + Client |
 | [CW_Jesse-BetterNetworking_Valheim](https://thunderstore.io/c/valheim/p/CW_Jesse/BetterNetworking_Valheim/) | `2.3.2` | Server + Client |
-| [Grantapher-ValheimPlus_Grantapher_Temporary](https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary/) | `9.17.1` | Server + Client |
+| [Grantapher-ValheimPlus_Grantapher_Temporary](https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary/) | `10.0.2` | Server + Client |
 | [lunarbin-Cross_Server_Portals](https://thunderstore.io/c/valheim/p/lunarbin/Cross_Server_Portals/) | `1.2.0` | Server + Client |
 | [OdinPlus-OdinsFoodBarrels](https://thunderstore.io/c/valheim/p/OdinPlus/OdinsFoodBarrels/) | `1.2.4` | Server + Client |
 | [OdinPlus-TeleportEverything](https://thunderstore.io/c/valheim/p/OdinPlus/TeleportEverything/) | `2.9.1` | Server + Client |
-| [RandyKnapp-EpicLoot](https://thunderstore.io/c/valheim/p/RandyKnapp/EpicLoot/) | `0.13.5` | Server + Client |
-| [RandyKnapp-EquipmentAndQuickSlots](https://thunderstore.io/c/valheim/p/RandyKnapp/EquipmentAndQuickSlots/) | `3.0.2` | Server + Client |
+| [RandyKnapp-EpicLoot](https://thunderstore.io/c/valheim/p/RandyKnapp/EpicLoot/) | `0.14.2` | Server + Client |
+| [RandyKnapp-EquipmentAndQuickSlots](https://thunderstore.io/c/valheim/p/RandyKnapp/EquipmentAndQuickSlots/) | `3.1.1` | Server + Client |
 | [SpikeHimself-XPortal](https://thunderstore.io/c/valheim/p/SpikeHimself/XPortal/) | `1.2.24` | Server + Client |
-| [ValheimModding-Jotunn](https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/) | `2.29.2` | Server + Client |
+| [ValheimModding-Jotunn](https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/) | `2.30.0` | Server + Client |
 | [ValheimModding-JsonDotNET](https://thunderstore.io/c/valheim/p/ValheimModding/JsonDotNET/) | `13.0.4` | Server + Client |
 | [VentureValheim-Venture_Floating_Items](https://thunderstore.io/c/valheim/p/VentureValheim/Venture_Floating_Items/) | `0.3.3` | Server + Client |
 | [Weather Tweaks](https://www.nexusmods.com/valheim/mods/1850) | `1.1.0` | Server + Client |
