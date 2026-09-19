@@ -16,13 +16,10 @@ Das Modpack für unsere Valheim-Server. Ein Klick, alle Mods aktuell.
 
 2. Doppelklick auf **`ValheimModUpdater.bat`** → *Jetzt aktualisieren* klicken → fertig.
 
-Der Updater findet deine Steam-Installation selbst, zeigt dir die Änderungen des
+Der Updater findet deine Steam-Installation, zeigt dir Änderungen des
 aktuellen Releases an und legt vor jedem Update ein Backup an.
 
-Auch BepInEx wird vom Updater installiert und aktuell gehalten – es muss nichts
-vorbereitet werden.
-
-**Was er nicht anfasst:** deine eigenen Client-Mods und deine Einstellungen unter
+**Nicht geändert wird:** deine eigenen Client-Mods und deine Einstellungen unter
 `BepInEx\config` – diese bleiben erhalten.
 
 > Der Downloadlink zeigt immer auf die aktuelle Version – einmal herunterladen genügt.
