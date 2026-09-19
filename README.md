@@ -19,20 +19,16 @@ Das Modpack für unsere Valheim-Server. Ein Klick, alle Mods aktuell.
 Der Updater findet deine Steam-Installation selbst, zeigt dir die Änderungen des
 aktuellen Releases an und legt vor jedem Update ein Backup an.
 
+Auch BepInEx wird vom Updater installiert und aktuell gehalten – es muss nichts
+vorbereitet werden.
+
 **Was er nicht anfasst:** deine eigenen Client-Mods und deine Einstellungen unter
 `BepInEx\config` – diese bleiben erhalten.
 
 > Der Downloadlink zeigt immer auf die aktuelle Version – einmal herunterladen genügt.
 
-### Einmalig – falls BepInEx noch nie installiert wurde
-
-*(sollte bei Stammspielern nicht der Fall sein)*
-
-1. **BepInEx installieren** – [BepInExPack Valheim](https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/)
-   herunterladen und den Inhalt nach `…\Steam\steamapps\common\Valheim\` entpacken.
-
-2. **Umsteiger:** Wer vorher Mods von Hand installiert hat, leert einmalig den Ordner
-   `…\Valheim\BepInEx\plugins`. Danach nie wieder nötig – der Updater pflegt ihn selbst.
+**Umsteiger:** Wer vorher Mods von Hand installiert hat, leert einmalig den Ordner
+`…\Valheim\BepInEx\plugins`. Danach nie wieder nötig – der Updater pflegt ihn selbst.
 
 ---
 
@@ -54,8 +50,9 @@ Geht auch ohne Updater ... ist nur umständlicher
 
 3. Den Ordner `plugins` aus dem Archiv in das BepInEx-Verzeichnis entpacken.
 
-> BepInEx selbst ist **nicht** im Archiv enthalten – das ist eine einmalige
-> Installation und bleibt unverändert.
+> BepInEx ist **nicht** im Archiv enthalten. Ohne Updater muss es einmalig selbst
+> eingerichtet werden: [BepInExPack Valheim](https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/)
+> herunterladen und den Inhalt nach `…\Steam\steamapps\common\Valheim\` entpacken.
 
 ---
 
@@ -103,14 +100,4 @@ Dein Modstand weicht vom Server ab. Updater starten – oder das aktuelle Releas
 manuell installieren.
 
 **Valheim startet, aber ohne Mods**
-BepInEx fehlt oder ist nicht im richtigen Ordner. Es gehört direkt neben die
-`valheim.exe`, nicht in einen Unterordner.
-
-**Updater meldet „BepInEx fehlt"**
-Siehe *Einmalig* im Schnellstart.
-
----
-
-<sub>Die Releases werden automatisch erzeugt: Ein Skript auf dem Server prüft die Mod-Quellen,
-aktualisiert beide Server und veröffentlicht den neuen Stand als Release.
-Die Mod-Tabelle oben wird dabei ebenfalls automatisch aktualisiert.</sub>
+Updater starten – er prüft BepInEx mit und repariert eine defekte Installation.
