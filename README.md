@@ -67,7 +67,7 @@ Geht auch ohne Updater ... ist nur umständlicher
 | [Azumatt-PetPantry](https://thunderstore.io/c/valheim/p/Azumatt/PetPantry/) | `1.0.6` | Server + Client |
 | [bonesbro-FloorsAreRoofs](https://thunderstore.io/c/valheim/p/bonesbro/FloorsAreRoofs/) | `2.0.2` | Server + Client |
 | [CW_Jesse-BetterNetworking_Valheim](https://thunderstore.io/c/valheim/p/CW_Jesse/BetterNetworking_Valheim/) | `2.3.2` | Server + Client |
-| [Grantapher-ValheimPlus_Grantapher_Temporary](https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary/) | `10.1.2` | Server + Client |
+| [Grantapher-ValheimPlus_Grantapher_Temporary](https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary/) | `10.2.0` | Server + Client |
 | [lunarbin-Cross_Server_Portals](https://thunderstore.io/c/valheim/p/lunarbin/Cross_Server_Portals/) | `1.3.0` | Server + Client |
 | [OdinPlus-OdinsFoodBarrels](https://thunderstore.io/c/valheim/p/OdinPlus/OdinsFoodBarrels/) | `1.2.8` | Server + Client |
 | [RandyKnapp-EpicLoot](https://thunderstore.io/c/valheim/p/RandyKnapp/EpicLoot/) | `0.14.10` | Server + Client |
