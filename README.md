@@ -75,8 +75,8 @@ Geht auch ohne Updater ... ist nur umständlicher
 | [SpikeHimself-XPortal](https://thunderstore.io/c/valheim/p/SpikeHimself/XPortal/) | `1.2.25` | Server + Client |
 | [ValheimModding-Jotunn](https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/) | `2.30.2` | Server + Client |
 | [ValheimModding-JsonDotNET](https://thunderstore.io/c/valheim/p/ValheimModding/JsonDotNET/) | `13.0.4` | Server + Client |
-| [VentureValheim-Venture_Floating_Items](https://thunderstore.io/c/valheim/p/VentureValheim/Venture_Floating_Items/) | `1.0.0` | Server + Client |
-| [Zenox-TeleportEverything](https://thunderstore.io/c/valheim/p/Zenox/TeleportEverything/) | `1.2.5` | Server + Client |
+| [VentureValheim-Venture_Floating_Items](https://thunderstore.io/c/valheim/p/VentureValheim/Venture_Floating_Items/) | `1.0.1` | Server + Client |
+| [Zenox-TeleportEverything](https://thunderstore.io/c/valheim/p/Zenox/TeleportEverything/) | `1.2.7` | Server + Client |
 | [BetterUI_ForeverMaintained-BetterUI_ForeverMaintained](https://thunderstore.io/c/valheim/p/BetterUI_ForeverMaintained/BetterUI_ForeverMaintained/) | `2.5.12` | nur Client |
 | [Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock](https://thunderstore.io/c/valheim/p/Goldenrevolver/Quick_Stack_Store_Sort_Trash_Restock/) | `1.4.15` | nur Client |
 | [lashiernexusmodport-Slope_Combat_Fix](https://thunderstore.io/c/valheim/p/lashiernexusmodport/Slope_Combat_Fix/) | `1.3.0` | nur Client |
