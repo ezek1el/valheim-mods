@@ -75,6 +75,7 @@ Geht auch ohne Updater ... ist nur umständlicher
 | [SpikeHimself-XPortal](https://thunderstore.io/c/valheim/p/SpikeHimself/XPortal/) | `1.2.25` | Server + Client |
 | [ValheimModding-Jotunn](https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/) | `2.30.2` | Server + Client |
 | [ValheimModding-JsonDotNET](https://thunderstore.io/c/valheim/p/ValheimModding/JsonDotNET/) | `13.0.4` | Server + Client |
+| [ValheimModding-YamlDotNet](https://thunderstore.io/c/valheim/p/ValheimModding/YamlDotNet/) | `16.3.1` | Server + Client |
 | [VentureValheim-Venture_Floating_Items](https://thunderstore.io/c/valheim/p/VentureValheim/Venture_Floating_Items/) | `1.0.1` | Server + Client |
 | [Weather Tweaks](https://www.nexusmods.com/valheim/mods/1850) | `1.1.1` | Server + Client |
 | [Zenox-TeleportEverything](https://thunderstore.io/c/valheim/p/Zenox/TeleportEverything/) | `1.2.9` | Server + Client |
@@ -85,7 +86,6 @@ Geht auch ohne Updater ... ist nur umständlicher
 | [PregnancyStatus](https://www.nexusmods.com/valheim/mods/1634) | `1.0.0` | nur Client |
 | [shudnal-ConditionalConfigSync](https://thunderstore.io/c/valheim/p/shudnal/ConditionalConfigSync/) | `1.0.10` | nur Client |
 | [shudnal-ConfigurationManager](https://thunderstore.io/c/valheim/p/shudnal/ConfigurationManager/) | `1.1.23` | nur Client |
-| [ValheimModding-YamlDotNet](https://thunderstore.io/c/valheim/p/ValheimModding/YamlDotNet/) | `16.3.1` | nur Client |
 | [Valphi-BetterLaddersContinued](https://thunderstore.io/c/valheim/p/Valphi/BetterLaddersContinued/) | `0.217.24` | nur Client |
 
 <!-- MODS:END -->
