@@ -84,6 +84,7 @@ Geht auch ohne Updater ... ist nur umständlicher
 | [PregnancyStatus](https://www.nexusmods.com/valheim/mods/1634) | `1.0.0` | nur Client |
 | [shudnal-ConditionalConfigSync](https://thunderstore.io/c/valheim/p/shudnal/ConditionalConfigSync/) | `1.0.10` | nur Client |
 | [shudnal-ConfigurationManager](https://thunderstore.io/c/valheim/p/shudnal/ConfigurationManager/) | `1.1.23` | nur Client |
+| [ValheimModding-YamlDotNet](https://thunderstore.io/c/valheim/p/ValheimModding/YamlDotNet/) | `16.3.1` | nur Client |
 | [Valphi-BetterLaddersContinued](https://thunderstore.io/c/valheim/p/Valphi/BetterLaddersContinued/) | `0.217.24` | nur Client |
 
 <!-- MODS:END -->
