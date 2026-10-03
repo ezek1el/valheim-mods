@@ -81,8 +81,9 @@ Geht auch ohne Updater ... ist nur umständlicher
 | [Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock](https://thunderstore.io/c/valheim/p/Goldenrevolver/Quick_Stack_Store_Sort_Trash_Restock/) | `1.4.15` | nur Client |
 | [lashiernexusmodport-Slope_Combat_Fix](https://thunderstore.io/c/valheim/p/lashiernexusmodport/Slope_Combat_Fix/) | `1.3.0` | nur Client |
 | [mchangrh-InstantMonsterDropFork](https://thunderstore.io/c/valheim/p/mchangrh/InstantMonsterDropFork/) | `0.6.0` | nur Client |
-| [Pineapple-EnhancedBepInExConfigurationManager](https://thunderstore.io/c/valheim/p/Pineapple/EnhancedBepInExConfigurationManager/) | `0.1.1` | nur Client |
 | [PregnancyStatus](https://www.nexusmods.com/valheim/mods/1634) | `1.0.0` | nur Client |
+| [shudnal-ConditionalConfigSync](https://thunderstore.io/c/valheim/p/shudnal/ConditionalConfigSync/) | `1.0.10` | nur Client |
+| [shudnal-ConfigurationManager](https://thunderstore.io/c/valheim/p/shudnal/ConfigurationManager/) | `1.1.23` | nur Client |
 | [Valphi-BetterLaddersContinued](https://thunderstore.io/c/valheim/p/Valphi/BetterLaddersContinued/) | `0.217.24` | nur Client |
 
 <!-- MODS:END -->
