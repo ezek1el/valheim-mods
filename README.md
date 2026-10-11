@@ -60,7 +60,7 @@ Geht auch ohne Updater ... ist nur umständlicher
 | Mod | Version | Läuft auf |
 |---|---|---|
 | [1010101110-roll](https://thunderstore.io/c/valheim/p/1010101110/roll/) | `1.2.0` | Server + Client |
-| [Advize-PlantEasily](https://thunderstore.io/c/valheim/p/Advize/PlantEasily/) | `2.2.2` | Server + Client |
+| [Advize-PlantEasily](https://thunderstore.io/c/valheim/p/Advize/PlantEasily/) | `2.3.0` | Server + Client |
 | [Advize-PlantEverything](https://thunderstore.io/c/valheim/p/Advize/PlantEverything/) | `1.21.3` | Server + Client |
 | [ASharpPen-Custom_Raids](https://thunderstore.io/c/valheim/p/ASharpPen/Custom_Raids/) | `1.8.2` | Server + Client |
 | [Azumatt-AzuCraftyBoxes](https://thunderstore.io/c/valheim/p/Azumatt/AzuCraftyBoxes/) | `1.8.19` | Server + Client |
@@ -69,23 +69,23 @@ Geht auch ohne Updater ... ist nur umständlicher
 | [CW_Jesse-BetterNetworking_Valheim](https://thunderstore.io/c/valheim/p/CW_Jesse/BetterNetworking_Valheim/) | `2.3.2` | Server + Client |
 | [Grantapher-ValheimPlus_Grantapher_Temporary](https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary/) | `10.2.0` | Server + Client |
 | [lunarbin-Cross_Server_Portals](https://thunderstore.io/c/valheim/p/lunarbin/Cross_Server_Portals/) | `1.3.0` | Server + Client |
-| [OdinPlus-OdinsFoodBarrels](https://thunderstore.io/c/valheim/p/OdinPlus/OdinsFoodBarrels/) | `1.3.9` | Server + Client |
+| [OdinPlus-OdinsFoodBarrels](https://thunderstore.io/c/valheim/p/OdinPlus/OdinsFoodBarrels/) | `1.4.0` | Server + Client |
 | [RandyKnapp-EpicLoot](https://thunderstore.io/c/valheim/p/RandyKnapp/EpicLoot/) | `0.14.13` | Server + Client |
 | [RandyKnapp-EquipmentAndQuickSlots](https://thunderstore.io/c/valheim/p/RandyKnapp/EquipmentAndQuickSlots/) | `3.1.3` | Server + Client |
-| [SpikeHimself-XPortal](https://thunderstore.io/c/valheim/p/SpikeHimself/XPortal/) | `1.2.25` | Server + Client |
+| [SpikeHimself-XPortal](https://thunderstore.io/c/valheim/p/SpikeHimself/XPortal/) | `1.2.26` | Server + Client |
 | [ValheimModding-Jotunn](https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/) | `2.30.2` | Server + Client |
 | [ValheimModding-JsonDotNET](https://thunderstore.io/c/valheim/p/ValheimModding/JsonDotNET/) | `13.0.4` | Server + Client |
 | [ValheimModding-YamlDotNet](https://thunderstore.io/c/valheim/p/ValheimModding/YamlDotNet/) | `16.3.1` | Server + Client |
 | [VentureValheim-Venture_Floating_Items](https://thunderstore.io/c/valheim/p/VentureValheim/Venture_Floating_Items/) | `1.0.1` | Server + Client |
 | [Weather Tweaks](https://www.nexusmods.com/valheim/mods/1850) | `1.1.1` | Server + Client |
-| [Zenox-TeleportEverything](https://thunderstore.io/c/valheim/p/Zenox/TeleportEverything/) | `1.2.9` | Server + Client |
+| [Zenox-TeleportEverything](https://thunderstore.io/c/valheim/p/Zenox/TeleportEverything/) | `1.2.10` | Server + Client |
 | [BetterUI_ForeverMaintained-BetterUI_ForeverMaintained](https://thunderstore.io/c/valheim/p/BetterUI_ForeverMaintained/BetterUI_ForeverMaintained/) | `2.5.12` | nur Client |
 | [Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock](https://thunderstore.io/c/valheim/p/Goldenrevolver/Quick_Stack_Store_Sort_Trash_Restock/) | `1.4.15` | nur Client |
 | [lashiernexusmodport-Slope_Combat_Fix](https://thunderstore.io/c/valheim/p/lashiernexusmodport/Slope_Combat_Fix/) | `1.3.0` | nur Client |
 | [mchangrh-InstantMonsterDropFork](https://thunderstore.io/c/valheim/p/mchangrh/InstantMonsterDropFork/) | `0.6.0` | nur Client |
 | [PregnancyStatus](https://www.nexusmods.com/valheim/mods/1634) | `1.0.0` | nur Client |
 | [shudnal-ConditionalConfigSync](https://thunderstore.io/c/valheim/p/shudnal/ConditionalConfigSync/) | `1.0.10` | nur Client |
-| [shudnal-ConfigurationManager](https://thunderstore.io/c/valheim/p/shudnal/ConfigurationManager/) | `1.1.23` | nur Client |
+| [shudnal-ConfigurationManager](https://thunderstore.io/c/valheim/p/shudnal/ConfigurationManager/) | `1.1.25` | nur Client |
 | [Valphi-BetterLaddersContinued](https://thunderstore.io/c/valheim/p/Valphi/BetterLaddersContinued/) | `0.217.24` | nur Client |
 
 <!-- MODS:END -->
