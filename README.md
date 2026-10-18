@@ -67,7 +67,7 @@ Geht auch ohne Updater ... ist nur umständlicher
 | [Azumatt-PetPantry](https://thunderstore.io/c/valheim/p/Azumatt/PetPantry/) | `1.0.6` | Server + Client |
 | [bonesbro-FloorsAreRoofs](https://thunderstore.io/c/valheim/p/bonesbro/FloorsAreRoofs/) | `2.0.2` | Server + Client |
 | [CW_Jesse-BetterNetworking_Valheim](https://thunderstore.io/c/valheim/p/CW_Jesse/BetterNetworking_Valheim/) | `2.3.2` | Server + Client |
-| [Grantapher-ValheimPlus_Grantapher_Temporary](https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary/) | `10.2.0` | Server + Client |
+| [Grantapher-ValheimPlus_Grantapher_Temporary](https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary/) | `10.3.0` | Server + Client |
 | [lunarbin-Cross_Server_Portals](https://thunderstore.io/c/valheim/p/lunarbin/Cross_Server_Portals/) | `1.3.0` | Server + Client |
 | [OdinPlus-OdinsFoodBarrels](https://thunderstore.io/c/valheim/p/OdinPlus/OdinsFoodBarrels/) | `1.4.0` | Server + Client |
 | [RandyKnapp-EpicLoot](https://thunderstore.io/c/valheim/p/RandyKnapp/EpicLoot/) | `0.14.13` | Server + Client |
@@ -80,11 +80,11 @@ Geht auch ohne Updater ... ist nur umständlicher
 | [Weather Tweaks](https://www.nexusmods.com/valheim/mods/1850) | `1.1.1` | Server + Client |
 | [Zenox-TeleportEverything](https://thunderstore.io/c/valheim/p/Zenox/TeleportEverything/) | `1.2.10` | Server + Client |
 | [BetterUI_ForeverMaintained-BetterUI_ForeverMaintained](https://thunderstore.io/c/valheim/p/BetterUI_ForeverMaintained/BetterUI_ForeverMaintained/) | `2.5.12` | nur Client |
-| [Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock](https://thunderstore.io/c/valheim/p/Goldenrevolver/Quick_Stack_Store_Sort_Trash_Restock/) | `1.4.15` | nur Client |
+| [Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock](https://thunderstore.io/c/valheim/p/Goldenrevolver/Quick_Stack_Store_Sort_Trash_Restock/) | `1.4.16` | nur Client |
 | [lashiernexusmodport-Slope_Combat_Fix](https://thunderstore.io/c/valheim/p/lashiernexusmodport/Slope_Combat_Fix/) | `1.3.0` | nur Client |
 | [mchangrh-InstantMonsterDropFork](https://thunderstore.io/c/valheim/p/mchangrh/InstantMonsterDropFork/) | `0.6.0` | nur Client |
 | [PregnancyStatus](https://www.nexusmods.com/valheim/mods/1634) | `1.0.0` | nur Client |
-| [shudnal-ConditionalConfigSync](https://thunderstore.io/c/valheim/p/shudnal/ConditionalConfigSync/) | `1.0.10` | nur Client |
+| [shudnal-ConditionalConfigSync](https://thunderstore.io/c/valheim/p/shudnal/ConditionalConfigSync/) | `1.0.11` | nur Client |
 | [shudnal-ConfigurationManager](https://thunderstore.io/c/valheim/p/shudnal/ConfigurationManager/) | `1.1.25` | nur Client |
 | [Valphi-BetterLaddersContinued](https://thunderstore.io/c/valheim/p/Valphi/BetterLaddersContinued/) | `0.217.24` | nur Client |
 
