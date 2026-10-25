@@ -60,8 +60,8 @@ Geht auch ohne Updater ... ist nur umständlicher
 | Mod | Version | Läuft auf |
 |---|---|---|
 | [1010101110-roll](https://thunderstore.io/c/valheim/p/1010101110/roll/) | `1.2.0` | Server + Client |
-| [Advize-PlantEasily](https://thunderstore.io/c/valheim/p/Advize/PlantEasily/) | `2.3.0` | Server + Client |
-| [Advize-PlantEverything](https://thunderstore.io/c/valheim/p/Advize/PlantEverything/) | `1.21.3` | Server + Client |
+| [Advize-PlantEasily](https://thunderstore.io/c/valheim/p/Advize/PlantEasily/) | `2.3.1` | Server + Client |
+| [Advize-PlantEverything](https://thunderstore.io/c/valheim/p/Advize/PlantEverything/) | `1.21.4` | Server + Client |
 | [ASharpPen-Custom_Raids](https://thunderstore.io/c/valheim/p/ASharpPen/Custom_Raids/) | `1.8.2` | Server + Client |
 | [Azumatt-AzuCraftyBoxes](https://thunderstore.io/c/valheim/p/Azumatt/AzuCraftyBoxes/) | `1.8.19` | Server + Client |
 | [Azumatt-PetPantry](https://thunderstore.io/c/valheim/p/Azumatt/PetPantry/) | `1.0.6` | Server + Client |
@@ -70,7 +70,7 @@ Geht auch ohne Updater ... ist nur umständlicher
 | [Grantapher-ValheimPlus_Grantapher_Temporary](https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary/) | `10.3.0` | Server + Client |
 | [lunarbin-Cross_Server_Portals](https://thunderstore.io/c/valheim/p/lunarbin/Cross_Server_Portals/) | `1.3.0` | Server + Client |
 | [OdinPlus-OdinsFoodBarrels](https://thunderstore.io/c/valheim/p/OdinPlus/OdinsFoodBarrels/) | `1.4.0` | Server + Client |
-| [RandyKnapp-EpicLoot](https://thunderstore.io/c/valheim/p/RandyKnapp/EpicLoot/) | `0.14.13` | Server + Client |
+| [RandyKnapp-EpicLoot](https://thunderstore.io/c/valheim/p/RandyKnapp/EpicLoot/) | `0.15.1` | Server + Client |
 | [RandyKnapp-EquipmentAndQuickSlots](https://thunderstore.io/c/valheim/p/RandyKnapp/EquipmentAndQuickSlots/) | `3.1.3` | Server + Client |
 | [SpikeHimself-XPortal](https://thunderstore.io/c/valheim/p/SpikeHimself/XPortal/) | `1.2.26` | Server + Client |
 | [ValheimModding-Jotunn](https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/) | `2.30.2` | Server + Client |
@@ -85,7 +85,7 @@ Geht auch ohne Updater ... ist nur umständlicher
 | [mchangrh-InstantMonsterDropFork](https://thunderstore.io/c/valheim/p/mchangrh/InstantMonsterDropFork/) | `0.6.0` | nur Client |
 | [PregnancyStatus](https://www.nexusmods.com/valheim/mods/1634) | `1.0.0` | nur Client |
 | [shudnal-ConditionalConfigSync](https://thunderstore.io/c/valheim/p/shudnal/ConditionalConfigSync/) | `1.0.11` | nur Client |
-| [shudnal-ConfigurationManager](https://thunderstore.io/c/valheim/p/shudnal/ConfigurationManager/) | `1.1.25` | nur Client |
+| [shudnal-ConfigurationManager](https://thunderstore.io/c/valheim/p/shudnal/ConfigurationManager/) | `1.1.27` | nur Client |
 | [Valphi-BetterLaddersContinued](https://thunderstore.io/c/valheim/p/Valphi/BetterLaddersContinued/) | `0.217.24` | nur Client |
 
 <!-- MODS:END -->
